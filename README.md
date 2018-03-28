@@ -1,3 +1,3 @@
 # Deep Learning
 
-This contains various mini projects on Deep Learning.
+This contains various mini projects in Deep Learning.
